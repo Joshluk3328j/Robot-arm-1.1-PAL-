@@ -1,0 +1,13 @@
+﻿"outer_circle" = 16
+"D1@Sketch1"="outer_circle"
+"inner_circle"=7
+"D2@Sketch1"="inner_circle"
+"gen_height"=20
+"D1@Boss-Extrude1"="gen_height"
+"gen_holder" = 5
+"D1@Sketch2"="gen_height" - "gen_holder"
+"gen_allowance" = 1.5
+"D3@Sketch2"="gen_allowance"
+"D4@Sketch2"="gen_allowance"
+"gen_chamfer"=2
+"D1@Chamfer1"="gen_chamfer"
