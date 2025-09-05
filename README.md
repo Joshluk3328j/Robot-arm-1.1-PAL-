@@ -99,10 +99,10 @@ Welcome to the second iteration of the **6 DOF Robotic Arm** project, codenamed 
 ## 📸 Demo
 
 ### Rendered Arm
-![Rendered Arm](Rendered/arm/render1.jpg)  
+![Rendered Arm](https://github.com/Joshluk3328j/Robot-arm-1.1-PAL-/blob/main/rendered%20arm.jpg) 
 
 ### Built Arm (Real Prototype)
-![Built Arm](Rendered/arm/prototype1.jpg)  
+![Built Arm](https://github.com/Joshluk3328j/Robot-arm-1.1-PAL-/blob/main/arm.jpg)
 
 ---
 
